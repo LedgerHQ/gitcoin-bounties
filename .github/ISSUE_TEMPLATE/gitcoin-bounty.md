@@ -1,6 +1,6 @@
 ---
 name: Gitcoin bounty
-about: Describe this issue template's purpose here.
+about: Gitcoin bounty template
 title: ''
 labels: ''
 assignees: ''
